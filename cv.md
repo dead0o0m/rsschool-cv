@@ -4,8 +4,8 @@
 
 # Contact informantion:
 - **Pnone number**: +375256215564
-- **email**: korsakteam@gmail.com
-- **Discord**: @deadr000m
+- **email**: romtishwork@gmail.com
+- **Discord**: @dead0o0m
 
 
 # About myself
@@ -17,6 +17,8 @@
 - CSS
 - JavaScript
 - T-SQL
+- React.js
+- TypeScript
 
 
 # Code Example
